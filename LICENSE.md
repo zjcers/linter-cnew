@@ -1,3 +1,4 @@
+Copyright (c) 2016 Zane J Cersovsky
 Copyright (c) 2015 Husam Hebaishi
 
 Permission is hereby granted, free of charge, to any person obtaining
