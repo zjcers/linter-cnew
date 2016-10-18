@@ -1,8 +1,8 @@
 {
-  "name": "linter-gcc",
+  "name": "linter-cnew",
   "main": "./lib/main",
-  "version": "1.0.0",
-  "description": "Lint C and C++ source files using gcc / g++",
+  "version": "0.1.0",
+  "description": "Lint C and C++ source files using gcc or g++",
   "keywords": [
     "lint",
     "linter",
